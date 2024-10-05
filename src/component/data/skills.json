@@ -1,0 +1,19 @@
+[
+  {
+    "title": "Premiere Pro",
+    "imageSrc": "skills/pr.jpeg"
+  },
+  {
+    "title": "Photo Shop",
+    "imageSrc": "skills/ps.jpeg"
+  },
+  {
+    "title": "ChatGpt",
+    "imageSrc": "skills/chatgpt.png"
+  },
+  {
+    "title": "Canva",
+    "imageSrc": "skills/canva.jpeg"
+  }
+  
+]
