@@ -1,27 +1,30 @@
 [
   {
     "id": 1,
-    "role": "Software Developer",
-    "organisation": "Mackinlay",
-    "startDate": "Sept, 2023",
+    "role": "Graphic Designer",
+    "organisation": "Motion Picture Learners",
+    "startDate": "june , 2022 ",
     "endDate": "Present",
-    "location": "Tamil nadu,Uttar Pradesh",
+    "location": "Vanarsi , Uttar Pradesh",
     "experiences": [
       "Worked on three two four company Projects",
-      "Team leader of that project"
+      "Worked on New Paper Add",
+      "Posters , Banners",
+      "Visting Cards,Invitations Card"
     ],
     "imageSrc": "company/google.png"
   },
   {
     "id": 2,
-    "role": "Software Developer Intership",
-    "organisation": "Mackinlay Enterprises",
-    "startDate": "March, 2024",
-    "endDate": "July, 2024",
-    "location": "Tamil Nadu, UP",
+    "role": "Mass Comunication Intership",
+    "organisation": "Hindustan Media Limited",
+    "startDate": "March, 2021 ",
+    "endDate": "October, 2021 ",
+    "location": "Vanarsi , Uttar Pradesh",
     "experiences": [
-      "Worked on HrConnect Pro App",
-      "Worked on Employee Management App"
+      "Worked on Reporting",
+      "Worked on Script Writing",
+      "News Editing"
     ],
     "imageSrc": "company/microsoft.png"
   }

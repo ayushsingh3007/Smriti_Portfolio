@@ -18,7 +18,7 @@ function Experience() {
                     <h4>
                     <span style={{color:'yellowgreen'}}> {data.startDate}</span>
                      {data.endDate} {data.location}</h4>
-\                </div>
+               </div>
             </div>
           </>  
         )
