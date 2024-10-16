@@ -317,12 +317,13 @@ box-shadow: var(--box-shadow);
 
 .slide {
   min-width: 100%;
+  height: 40rem;
   box-sizing: border-box;
 }
 
 .slide img {
   width: 100%;
-  height: auto;
+  height: 100%;
 }
 
 .prev, .next {
@@ -341,4 +342,25 @@ box-shadow: var(--box-shadow);
 
 @media (max-width: 768px) {
   .prev, .next { padding: 5px; font-size: 18px; }
+}
+
+.project_imgs {
+  display: flex;
+  flex-direction:row;
+  flex-wrap: wrap;
+  max-width: 100%; 
+  justify-content: center;
+  align-items: center;
+}
+
+.project_imgs div{
+  width: 40%;
+  height: 24rem;
+  margin: 10px;
+  border-radius: 10px;
+}
+.project_imgs div img{
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
 }
