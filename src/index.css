@@ -376,7 +376,7 @@ box-shadow: var(--box-shadow);
   }
   
   .project_imgs div{
-    width: 100%;
+    width: 95%;
     height: 24rem;
     margin: 10px;
     border-radius: 10px;
