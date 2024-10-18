@@ -1,48 +1,28 @@
 [
-    {
-        "id":"1",
-        "catimg":"ProjectDesign/catering.jpeg"
-    },
-    {
-        "id":"2",
-        "catimg":"ProjectDesign/catering1.jpeg"
-    },
-    {
-        "id":"3",
-        "catimg":"ProjectDesign/catering2.jpeg"
-    },
-    {
-        "id":"4",
-        "catimg":"ProjectDesign/catering3.jpeg"
-    },
-    {
-        "id":"5",
-        "catimg":"ProjectDesign/catering4.jpeg"
-    },
-    {
-        "id":"6",
-        "catimg":"ProjectDesign/catering5.jpeg"
-    },
-    {
-        "id":"7",
-        "catimg":"ProjectDesign/catering6.jpeg"
-    },
-    {
-        "id":"8",
-        "catimg":"ProjectDesign/catering7.jpeg"
-    },
-    {
-        "id":"9",
-        "catimg":"ProjectDesign/catering8.jpeg"
-    },
-    {
-        "id":"10",
-        "catimg":"ProjectDesign/catering9.jpeg"
-    },
-    {
-        "id":"11",
-        "catimg":"ProjectDesign/catering10.jpeg"
-    }
-    
+    { "id": "1", "catimg": "ProjectDesign/catering.jpeg" },
+    { "id": "2", "catimg": "ProjectDesign/catering1.jpeg" },
+    { "id": "3", "catimg": "ProjectDesign/catering2.jpeg" },
+    { "id": "4", "catimg": "ProjectDesign/catering3.jpeg" },
+    { "id": "5", "catimg": "ProjectDesign/catering4.jpeg" },
+    { "id": "6", "catimg": "ProjectDesign/catering5.jpeg" },
+    { "id": "7", "catimg": "ProjectDesign/catering6.jpeg" },
+    { "id": "8", "catimg": "ProjectDesign/catering7.jpeg" },
+    { "id": "9", "catimg": "ProjectDesign/catering8.jpeg" },
+    { "id": "10", "catimg": "ProjectDesign/catering9.jpeg" },
+    { "id": "11", "catimg": "ProjectDesign/catering10.jpeg" },
+    { "id": "12", "hotimg": "ProjectDesign/hotel1.jpeg" },
+    { "id": "13", "hotimg": "ProjectDesign/hotel2.jpeg" },
+    { "id": "14", "hotimg": "ProjectDesign/hotel3.jpeg" },
+    { "id": "15", "hotimg": "ProjectDesign/hotel4.jpeg" },
+    { "id": "16", "hotimg": "ProjectDesign/hotel5.jpeg" },
+    { "id": "17", "hotimg": "ProjectDesign/hotel6.jpeg" },
+    { "id": "18", "hotimg": "ProjectDesign/hotel7.jpeg" },
+    { "id": "19", "tourimg": "ProjectDesign/tourist.jpeg" },
+    { "id": "20", "tourimg": "ProjectDesign/tourist1.jpeg" },
+    { "id": "21", "tourimg": "ProjectDesign/tourist2.jpeg" },
+    { "id": "22", "tourimg": "ProjectDesign/tourist3.jpeg" },
+    { "id": "23", "tourimg": "ProjectDesign/tourist4.jpeg" }
 
-]
+
+  ]
+  

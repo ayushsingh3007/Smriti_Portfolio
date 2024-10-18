@@ -344,11 +344,11 @@ box-shadow: var(--box-shadow);
   .prev, .next { padding: 5px; font-size: 18px; }
 }
 
-.project_imgs {
+.project_imgs{
   display: flex;
   flex-direction:row;
   flex-wrap: wrap;
-  max-width: 100%; 
+  width: 100%; 
   justify-content: center;
   align-items: center;
 }
@@ -363,4 +363,27 @@ box-shadow: var(--box-shadow);
   width: 100%;
   height: 100%;
   border-radius: 10px;
+}
+@media (max-width: 768px) {
+
+  .project_imgs{
+    display: flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+    width: 100%; 
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .project_imgs div{
+    width: 100%;
+    height: 24rem;
+    margin: 10px;
+    border-radius: 10px;
+  }
+  .project_imgs div img{
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+  }
 }
